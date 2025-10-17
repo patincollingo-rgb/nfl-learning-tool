@@ -2,7 +2,7 @@
 name = "nfl-learning-tool"
 version = "0.1.0"
 description = "Scrape Pro-Football-Reference, build features, train models, predict weekly NFL scores."
-authors = [{name="Your Name", email="you@example.com"}]
+authors = [{name="Project Pat", email="you@example.com"}]
 requires-python = ">=3.9"
 
 [project.dependencies]
